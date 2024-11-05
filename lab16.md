@@ -1,6 +1,4 @@
-## Tiziano Pirez 4to 4ta
-
-Guía de Estudio 02: Redes - Topologías
+### Tiziano Pirez 4to 4ta
 
 ## Nivel: Secundario - Modalidad Educación Técnico-Profesional
 - **Ciclo**: Segundo ciclo
