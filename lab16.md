@@ -9,11 +9,13 @@
 ### 1. ¿Qué es la topología física de una red?
 
 La topología física de una red se refiere a la disposición física de los dispositivos y cables que la componen, es decir, cómo se conectan físicamente los dispositivos entre sí en el espacio.
+
 ---
 
 ### 2. ¿Cuáles son las 6 topologías que describe el video?
 
 Bus, Anillo, Estrella, Estrella extendida, Jerárquica, Malla
+
 ---
 
 ### 3. Completa la tabla comparativa entre las topologías en cuanto a **simplicidad de armado** y **confiabilidad frente a fallas**:
@@ -56,10 +58,6 @@ Bus, Anillo, Estrella, Estrella extendida, Jerárquica, Malla
 **Pregunta**: ¿Una VPN se parece más a una LAN o a una WAN?
 
 Una **VPN** se parece más a una **WAN**, ya que permite la interconexión de redes a través de distancias geográficas grandes, utilizando Internet como medio de transmisión, pero con características de seguridad como cifrado y autenticación.
----
-
-## Para seguir aprendiendo:
-Una red es la interconexión de equipos como enrutadores, hubs, computadoras, switches, impresoras, entre otros dispositivos. La forma en que cada uno accede al medio y la forma en que están cableados dan lugar a dos tipos de topologías. ¿Qué topologías son estas?
 
 ---
 
